@@ -8,3 +8,8 @@ Sentiment detection
 Random responses
 Conversation flow
 GUI interface
+
+C#
+WPF
+.NET 8
+GitHub Actions
